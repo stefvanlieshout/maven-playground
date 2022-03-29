@@ -1,0 +1,14 @@
+[Header],,,,,,
+InvestigatorName,TestInvestigator,,,,,
+ExperimentName,TestExperimentName,,,,,
+Date,1/1/1901,,,,,
+,,,,,,
+[Reads],,,,,,
+,,,,,,
+[Settings],,,,,,
+OverrideCycles,Y151;I6U9;I6U9;Y151
+[Data],,,,,,
+Sample_ID,Sample_Name,Sample_Project,I7_Index_ID,I5_Index_ID,index,index2,,,
+Barcode1,Sample1,HMFregProject,i7-1,i5-1,AAAAAA,AAAAAA
+Barcode1,Sample1,HMFregProject,i7-2,i5-2,CCCCCC,CCCCCC
+Barcode2,Sample2,HMFregProject,i7-3,i5-3,GGGGGG,GGGGGG

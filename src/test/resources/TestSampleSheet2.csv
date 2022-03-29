@@ -1,0 +1,14 @@
+[Header],,,,,,
+InvestigatorName,TestInvestigator,,,,,
+ExperimentName,TestExperimentName,,,,,
+Date,1/1/1901,,,,,
+,,,,,,
+[Reads],,,,,,
+,,,,,,
+[Settings],,,,,,
+OverrideCycles,Y28;N10;N10;Y90
+[Data],,,,,,
+Sample_ID,Sample_Name,Sample_Project
+Barcode1,Sample1,HMFregProject
+Barcode1,Sample1,HMFregProject
+Barcode2,Sample2,HMFregProject
